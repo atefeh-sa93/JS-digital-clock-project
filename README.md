@@ -5,5 +5,7 @@
 ##### CodePen :(https://codepen.io/atefeh_sa93/pen/gOrYqBr)
 
 
+![Digital-clock](https://user-images.githubusercontent.com/47238838/89653293-0c5c4600-d8dc-11ea-91e6-5e1dc2bcafba.png)
+
 
 
